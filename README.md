@@ -82,7 +82,7 @@ Treinamento com as aulas gratuitas da imersão no Youtube
 
 ```mermaid
 flowchart LR;
-  A["`
+  A["
 Book.trade
-(async)`"]-->B[Transaction channel]-->C[Apache Kafka];
+(async)"]-->B[Transaction channel]-->C[Apache Kafka];
 ```
